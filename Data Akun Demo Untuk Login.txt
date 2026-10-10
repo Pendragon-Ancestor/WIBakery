@@ -1,0 +1,7 @@
+🔑 Akun Demo Bawaan (Seed Data)
+
+Role	Email	Password
+
+Admin Bakery	admin@wibbakery.com	admin123
+
+Customer Demo	fanduy@gmail.com	customer123
